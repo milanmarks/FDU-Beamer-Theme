@@ -1,4 +1,4 @@
-# THU-Beamer-Theme
+# FDU-Beamer-Theme
 
 最初能追溯到的版本是 [https://www.latexstudio.net/archives/4051.html](https://www.latexstudio.net/archives/4051.html)
 
