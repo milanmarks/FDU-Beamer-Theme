@@ -3,6 +3,8 @@
 forked from [thu beamer theme](https://github.com/Trinkle23897/THU-Beamer-Theme) 2021/4/13
 
 two color theme: fdu_blue and fdu_red
+
+overleaf模板：https://www.overleaf.com/latex/templates/fdu-beamer-theme/vjhpmpndbqtc
 ***
 
 最初能追溯到的版本是 [https://www.latexstudio.net/archives/4051.html](https://www.latexstudio.net/archives/4051.html)
