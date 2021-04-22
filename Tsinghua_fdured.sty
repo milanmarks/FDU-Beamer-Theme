@@ -1,3 +1,5 @@
+\RequirePackage{tikz}
+
 \mode<presentation>
 
 \newif\ifbeamer@secheader
@@ -80,6 +82,13 @@
 		\tableofcontents[sectionstyle=show/shaded,subsectionstyle=show/shaded/hide,subsubsectionstyle=show/shaded/hide]
 	\end{frame}
 }
-
+%background
+\setbeamertemplate{background canvas}{
+    \begin{tikzpicture}
+    \path (0,0) -- (\paperwidth,\paperheight);
+    \node[opacity=.05] at (0.8\paperwidth,0.25\paperheight)
+    {\includegraphics[width=11cm]{pic/background}};
+    \end{tikzpicture}
+}
 \mode
 <all>
